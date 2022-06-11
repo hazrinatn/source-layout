@@ -1,5 +1,5 @@
 # Source Layout
-Simple responsive web layout using vanilla CSS.
+Simple responsive web layout using vanilla CSS
 
 ### Desktop View
 ![Desktop Version](./assets/source-layout.png "Responsive Web Layout - Desktop")
