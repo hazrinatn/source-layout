@@ -3,7 +3,7 @@ Simple responsive web layout using vanilla CSS.
 
 ![Desktop Version](./assets/source-layout.png "Responsive Web Layout - Desktop")
 
-![Mobile Version](./assets/source-layout-mobile.png "Responsive Web Layout - Mobile"){width=200px}
+<img src="./assests/source-layout-mobile.png" alt="Web layout - mobile" width="200px">
 
 ### Credits
 
