@@ -1,9 +1,11 @@
 # Source Layout
 Simple responsive web layout using vanilla CSS.
 
+## Desktop View
 ![Desktop Version](./assets/source-layout.png "Responsive Web Layout - Desktop")
 
-<img src="./assets/source-layout-mobile.png" alt="Web layout - mobile" width="200px">
+## Mobile View
+<img src="./assets/source-layout-mobile.png" alt="Web layout - mobile" width="200px" align="center">
 
 ### Credits
 
